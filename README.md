@@ -19,4 +19,4 @@ A simple RESTful API built with Node.js and Express, connected to a MongoDB data
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-api.git
+   git clone https://github.com/kanishq-gupta/student-api.git
